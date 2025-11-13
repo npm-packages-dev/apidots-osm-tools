@@ -202,19 +202,11 @@ main();
 
 ---
 
-### Custom Server URLs
-```ts
-useGeocode('Berlin', 'https://nominatim.myserver.com');
-useRoute('start', 'end', 'https://routing.myserver.com');
-```
-
----
-
 ## Author
 
 **APIDOTS PRIVATE LIMITED**  
 🌐 Website: [https://apidots.com](https://apidots.com)  
-💻 GitHub: [https://github.com/apidots](https://github.com/apidots)
+💻 GitHub: [https://github.com/npm-packages-dev/apidots-osm-tools](https://github.com/npm-packages-dev/apidots-osm-tools)
 
 ---
 
